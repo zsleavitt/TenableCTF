@@ -1,6 +1,7 @@
 # Easy Peasy 
 ## Prompt:
 ![EasyPeasy](/images/easy_peasy_prompt.png)
+
 Full string (since it ran of the screen): NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
 
 ## Tools:
