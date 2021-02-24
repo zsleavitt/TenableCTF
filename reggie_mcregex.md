@@ -22,5 +22,6 @@ Knowing that this is a Regular Expression test I decided to use RegExr which is 
 
 Final solution:
 > flag{([a-z]|_){16}}
+
 Flag:
 > flag{thy_flag_is_this}
