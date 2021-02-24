@@ -1,6 +1,6 @@
 # Reggie McRegex
 ## Prompt:
-Find the flag in the attached file containing a haystack. Not including the quotes, the flag will be in the format of "flag{here_is_a_flag}". The text between the curly braces can consist of lowercase characters and underscores and be a maximum length of 16. You'll know it when you see it.
+![RegExr1](/images/reggie_mcregex_prompt.png)
 
 ## Tools:
 - [RegExr](https://regexr.com/) - "RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp)."
@@ -12,6 +12,7 @@ Knowing that this is a Regular Expression test I decided to use RegExr which is 
 1. Entered in the string 'flag{}' into RegExr:
     1. ![RegExr1](/images/reggie_mcregex_1.png)
     1. ![RegExr2](/images/reggie_mcregex_2.png)
-1. Added in the expression '([a-z]|_) to search for the appropriate characters (explanation below):
+1. Added in the expression '([a-z]|_)' to search for the appropriate characters (explanation below):
     1. ![RegExr3](/images/reggie_mcregex_3.png)
     1. ![RegExr4](/images/reggie_mcregex_4.png)
+1. Attempted to paste the contents of the associated 
