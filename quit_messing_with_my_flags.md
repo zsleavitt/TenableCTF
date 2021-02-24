@@ -2,6 +2,8 @@
 ## Prompt:
 ![QuitMessingWithMyFlags](/images/quit_messing_with_my_flags_prompt.png)
 
+> Sorry... the only screenshot I had of this challenge had the flag in it.
+
 ## Tools:
 - [Trusty Rusty Google](https://www.google.com)
 - [MD5 Conversion and Reverse Lookup](https://md5.gromweb.com/?md5=161ebd7d45089b3446ee4e0d86dbcf92) - Reverses and converts MD5 hashes to strings. 
