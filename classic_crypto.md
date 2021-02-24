@@ -2,12 +2,11 @@
 ## Prompt:
 ![ClassicCrypto](/images/classic_crypto_prompt.png)
 
-Full value of the crypto (since it ran off the screen):
-NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
-
 ## Tools:
 - [Chiper Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier#base64) - "This tool will help you identify the type of cipher, as well as give you information about possibly useful tools to solve it."
-- 
+- [Cipher Identifier Decoder](https://www.boxentriq.com/code-breaking/base64-decoder) - Base64 decoder on BoxenTriq.
+- [Cryptii](https://cryptii.com/pipes/hex-to-text) - "Web app offering modular conversion, encoding and encryption online."
+- [Decode](https://www.dcode.fr/caesar-cipher) - "dCode is free and its tools are a valuable help in games, maths, geocaching, puzzles and problems to solve every day!"
 
 ## Solution:
 I have to admit that cryptography is not my strong suit howeve I did recognize the string as most likely being Base64 crypto where the ciphertext ended in a '=' characters, and mostly contained a combination of upper and lowercase letters. Here is the process I followed to solve this flag:
