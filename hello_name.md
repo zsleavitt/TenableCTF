@@ -8,7 +8,7 @@
 ## Solution:
 This was definitely the easiest of the programming problems, however due to my infamiliariy with C++, and the fact that I haven't worked with it in years, it took me longer than I expected. Basically the solution to this challenge was just to regurgitate the users name after they entered it into the input. Since the challenge didn't specify any validation, I did just that.
 
-Final solution:
+Final solution([view on repl](https://repl.it/@zleavitt/Hello-dollarname-1)):
 ```cpp
 #include <stdio.h>
 #include <iostream>
