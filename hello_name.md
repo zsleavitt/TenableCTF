@@ -1,6 +1,6 @@
 # Short and Sweet
 ## Prompt:
-![Replr1](/images/hello_name_prompt).png)
+![Replr1](/images/hello_name_prompt.png)
 
 ## Tools:
 - [Repl.it](https://repl.it/) - "Replit is the best tool for quickly starting, sharing, and developing projects in any programming language, right from your browser."
