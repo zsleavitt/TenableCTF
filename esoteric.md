@@ -3,8 +3,8 @@
 ![Esoteric](/images/Esoteric.png)
 
 ## Tools:
+- [Trusty Rusty Google](https://www.google.com)
 - [Brainfuck Interpterer and Tape Visualizer](https://fatiherikli.github.io/brainfuck-visualizer/#LS1bLS0tLS0+KzxdPi4rKysrKysuLS0tLS0tLS0tLS0uKysrKysrLlstLS0tLT4rPF0+Li0tLS0uLS0tLisrK1stPisrKzxdPisuLS0tLS0tLS4rKysrKysrKysrLisrKysrKysrKysuKytbLT4rKys8XT4uKysrLlstLS0+KzxdPi0tLS0uKysrWy0+KysrPF0+KysuKysrKysrKysuKysrKysuLS0tLS0tLS0uLVstLS0+KzxdPi0tLitbLT4rKys8XT4rLisrKysrKysrLj4tLVstLT4rKys8XT4uCg==) - It appears as though this website processes... brainf***. 
-- [Vigenere Cipher Decoder](https://www.boxentriq.com/code-breaking/vigenere-cipher) - Base64 decoder on BoxenTriq.
 
 ## Solution:
 I had virtually no knowledge about... this before going into the challenge. All I could really tell about it was that it looked to be like some kind of morse code. By pasting the string from the flag into Google, the first result was the "Brainf*** Language - Online Decorder, Translator, Interpreter" (sorry kids). This is how I arrived at the solution:
