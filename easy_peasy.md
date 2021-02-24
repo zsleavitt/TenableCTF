@@ -2,7 +2,7 @@
 ## Prompt:
 ![EasyPeasy](/images/easy_peasy_prompt.png)
 
-Full string (since it ran of the screen): NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
+> Full string (since it ran of the screen): NzMgNzkgNmUgNzQgN2IgNzAgNjIgNjEgNzQgNjUgNmUgNjcgNjYgNWYgNmMgNjIgNjggNWYgNzQgNjIgNjcgNWYgN2EgNzIgN2Q=
 
 ## Tools:
 - [Chiper Identifier](https://www.boxentriq.com/code-breaking/cipher-identifier#base64) - "This tool will help you identify the type of cipher, as well as give you information about possibly useful tools to solve it."
