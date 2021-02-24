@@ -1,6 +1,6 @@
 # Esoteric
 ## Prompt:
-![Esoteric](/images/Esoteric.png)
+![Esoteric](/images/esoteric_prompt.png)
 
 ## Tools:
 - [Trusty Rusty Google](https://www.google.com)
