@@ -9,7 +9,7 @@
 The solution to this problem was relative easy however, this was probably by design where the flag was only worth 25 points. The key to this solution is understanding the modulus operator, which attmepts to divide a number by another number and returns the remainder from the operation. Therefore this code is as simple testing each number to check if it is divisible (modulus) by 2. 
 
 Final solution:
-```
+```python
 def AreNumbersEven(numbers):
   isEvenList = []
   for number in numbers:
