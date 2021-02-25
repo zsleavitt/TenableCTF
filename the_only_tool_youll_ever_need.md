@@ -19,7 +19,7 @@ The was by far one of the most interesting challenges that I worked on for the C
 1. And there was the flag, hidden in a comment embedded in the code of the program (sorry for the huge screenshot):
     1. ![TheOnlyToolYoullEverNeed5](/images/the_only_tool_youll_ever_need_5.png)
 
-![TheOnlyToolYoullEverNeed6](/images/the_only_tool_youll_ever_need_6.png)
-
 Flag:
 > flag{str1ngs_FTW}
+
+![TheOnlyToolYoullEverNeed6](/images/the_only_tool_youll_ever_need_6.png)
