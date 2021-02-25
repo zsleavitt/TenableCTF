@@ -1,6 +1,6 @@
 # The Only Tool You'll Ever Need
 ## Prompt:
-![TheOnlyToolYoullEverNeed](/images/the_only_tool_youll_ever_need.png)
+![TheOnlyToolYoullEverNeed](/images/the_only_tool_youll_ever_need_prompt.png)
 
 ## Tools:
 - [Ida 7.5 (Demo)](https://www.hex-rays.com/products/decompiler/)
