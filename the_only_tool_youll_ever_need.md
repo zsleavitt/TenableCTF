@@ -3,7 +3,7 @@
 ![TheOnlyToolYoullEverNeed](/images/the_only_tool_youll_ever_need_prompt.png)
 
 ## Tools:
-- [Ida 7.5 (Demo)](https://www.hex-rays.com/products/decompiler/)
+- [Ida 7.5 (Demo)](https://www.hex-rays.com/products/decompiler/) - "The Hex-Rays Decompiler brings binary software analysis within reach of millions of programmers. It converts native processor code into a readable C-like pseudocode text."
 
 ## Solution:
 The was by far one of the most interesting challenges that I worked on for the CTF. I ended up having to sign up for a demo of a tool called IDA however other than that the challenge itself wasn't that difficult. Here's how I solved the challenge:
