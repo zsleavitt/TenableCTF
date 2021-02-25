@@ -2,7 +2,7 @@
 ## Prompt:
 ![QuitMessingWithMyFlags](/images/quit_messing_with_my_flags_prompt.png)
 
-> Sorry... the only screenshot I had of this challenge had the flag in it.
+> Sorry... this is the only screenshot I had of this challenge had the flag in it.
 
 ## Tools:
 - [Trusty Rusty Google](https://www.google.com)

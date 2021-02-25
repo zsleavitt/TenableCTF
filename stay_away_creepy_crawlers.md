@@ -2,6 +2,8 @@
 ## Prompt:
 ![Template](/images/stay_away_creepy_crawlers_prompt.png)
 
+> Sorry... this is the only screenshot I had of this challenge had the flag in it.
+
 ## Tools:
 - [Google's Advanced SEO Documentation](https://developers.google.com/search/docs/advanced/robots/intro)
 
